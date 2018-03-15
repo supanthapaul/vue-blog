@@ -1,6 +1,6 @@
 # vue-blog
 
-> A Vue.js project
+> A blog prototype made with Vue.js, firebase as backend
 
 ## Build Setup
 
